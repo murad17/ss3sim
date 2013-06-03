@@ -33,6 +33,9 @@
   \item{retro_params}{A named list containing all the
   \code{\link{change_retro}} options.}
 
+  \item{estim_params}{A named list containing all the
+  \code{\link{change_e}} options.}
+
   \item{om_model_dir}{The directory with the operating
   model you want to copy and use for the specified
   simulations.}
