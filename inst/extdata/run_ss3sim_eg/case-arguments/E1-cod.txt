@@ -1,6 +1,6 @@
-natM_type; NULL
-natM_vector; NULL
-natM_int; NULL
+natM_type; "n_breakpoints"
+natM_vector; c(1,4)
+natM_int; c(.2, .3)
 natM_lorenzen; NULL
-natM_phase; -1
+natM_phase; c(2,2)
 steep_phase; -1
