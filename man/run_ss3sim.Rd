@@ -4,7 +4,7 @@
 \usage{
   run_ss3sim(iterations, scenarios, m_params, f_params,
     index_params, lcomp_params, agecomp_params,
-    retro_params, om_model_dir, em_model_dir,
+    retro_params, estim_params, om_model_dir, em_model_dir,
     bias_adjust = FALSE, bias_nsim = 5,
     bias_already_run = FALSE, hess_always = FALSE,
     print_logfile = TRUE, ...)
